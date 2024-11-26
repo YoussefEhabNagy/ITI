@@ -1,0 +1,19 @@
+Day1 - LinkedList:
+
+	// insert node after given node
+        void InsertAfter(int data, int afterData); 
+        // insert node before given node	
+	void InsertBefore(int data, int beforeData); 
+	// get number of nodes 	
+        int GetCount();	
+        // get data in the given 
+        int GetDataByIndex(int index);	
+        
+        //mylist.GetDataByIndex(0)
+        //mylist.GetDataByIndex(1)
+        //mylist.GetDataByIndex(2)
+        
+        	
+        
+        
+
