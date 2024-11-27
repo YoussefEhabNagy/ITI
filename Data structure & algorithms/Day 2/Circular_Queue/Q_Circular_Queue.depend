@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1730568282 source:d:\iti\oop\session 2\q_circular_queue\main.cpp
+	<iostream>
+
+1732711960 source:d:\iti\data structure & algorithms\day 2\circular_queue\main.cpp
+	<iostream>
+	"Circular_Queue.h"
+
+1732712016 d:\iti\data structure & algorithms\day 2\circular_queue\include\circular_queue.h
+
